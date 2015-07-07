@@ -1,3 +1,4 @@
+base_url: "/legi-internet"
 defaults:
   - scope: {path: ""}
     values:
